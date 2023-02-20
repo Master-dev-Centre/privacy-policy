@@ -1,5 +1,4 @@
-# Master is no longer
-I've lost interest in this project months ago and ditched it. And I don't plan on bringing it back. I really don't have the time and effort maintaining a Discord Bot.
+# Master Dev Centre
 
 # Master-DiscordBot-PrivacyPolicy
 Privacy Policy of Master DiscordBot
